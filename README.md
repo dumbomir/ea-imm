@@ -1,5 +1,7 @@
 # ea-imm
 Enterprise Architecture Interoperability Meta-Model Extended by Maturity Models
+This is a research in progress
+This meta-model extends [this](https://dl.acm.org/citation.cfm?id=2388282) paper by maturity models
 
 # Actor.Exist
 ```C
